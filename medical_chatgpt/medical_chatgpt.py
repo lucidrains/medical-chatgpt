@@ -4,6 +4,15 @@ from torch import nn, einsum
 
 from einops import rearrange
 
+def exists(val):
+    return val is not None
+
+def default(val, d):
+    if exists(val):
+        return val
+    return d() if isfunction(d) else d
+
+
 # attention
 
 class Attention(nn.Module):
@@ -26,8 +35,8 @@ class Attention(nn.Module):
 
         dim_context = default(dim_context, dim)
 
-        self.norm = LayerNorm(dim)
-        self.context_norm = LayerNorm(dim_context) if norm_context else nn.Identity()
+        self.norm = nn.LayerNorm(dim)
+        self.context_norm = nn.LayerNorm(dim_context) if norm_context else nn.Identity()
 
         self.attn_dropout = nn.Dropout(dropout)
 
