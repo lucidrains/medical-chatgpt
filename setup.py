@@ -19,6 +19,7 @@ setup(
   ],
   install_requires=[
     'einops>=0.6',
+    'django-ninja',
     'torch>=1.6',
   ],
   classifiers=[
