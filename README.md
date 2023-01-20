@@ -9,3 +9,17 @@ Explorations into training a ChatGPT, but tailored towards primary care medicine
     year    = {2022}
 }
 ```
+
+```bibtex
+@article {Kung2022.12.19.22283643,
+    author  = {Kung, Tiffany H. and Cheatham, Morgan and , and Medenilla, Arielle and Sillos, Czarina and De Leon, Lorie and Elepa{\~n}o, Camille and Madriaga, Maria and Aggabao, Rimel and Diaz-Candido, Giezel and Maningo, James and Tseng, Victor},
+    title   = {Performance of ChatGPT on USMLE: Potential for AI-Assisted Medical Education Using Large Language Models},
+    elocation-id = {2022.12.19.22283643},
+    year    = {2022},
+    doi     = {10.1101/2022.12.19.22283643},
+    publisher = {Cold Spring Harbor Laboratory Press},
+    URL     = {https://www.medrxiv.org/content/early/2022/12/21/2022.12.19.22283643},
+    eprint  = {https://www.medrxiv.org/content/early/2022/12/21/2022.12.19.22283643.full.pdf},
+    journal = {medRxiv}
+}
+```
