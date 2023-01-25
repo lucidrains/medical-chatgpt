@@ -23,3 +23,16 @@ Explorations into training a ChatGPT, but tailored towards primary care medicine
     journal = {medRxiv}
 }
 ```
+
+```bibtex
+@misc{https://doi.org/10.48550/arxiv.2301.10035,
+    doi     = {10.48550/ARXIV.2301.10035},
+    url     = {https://arxiv.org/abs/2301.10035},
+    author  = {Nov, Oded and Singh, Nina and Mann, Devin},
+    keywords = {Human-Computer Interaction (cs.HC), FOS: Computer and information sciences, FOS: Computer and information sciences},
+    title   = {Putting ChatGPT's Medical Advice to the (Turing) Test},
+    publisher = {arXiv},
+    year    = {2023},  
+    copyright = {Creative Commons Attribution Share Alike 4.0 International}
+}
+```
