@@ -36,3 +36,11 @@ Explorations into training a ChatGPT, but tailored towards primary care medicine
     copyright = {Creative Commons Attribution Share Alike 4.0 International}
 }
 ```
+
+```bibtex
+@inproceedings{Schick2023ToolformerLM,
+    title   = {Toolformer: Language Models Can Teach Themselves to Use Tools},
+    author  = {Timo Schick and Jane Dwivedi-Yu and Roberto Dessi and Roberta Raileanu and Maria Lomeli and Luke Zettlemoyer and Nicola Cancedda and Thomas Scialom},
+    year    = {2023}
+}
+```
