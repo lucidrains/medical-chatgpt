@@ -44,3 +44,11 @@ Explorations into training a ChatGPT, but tailored towards primary care medicine
     year    = {2023}
 }
 ```
+
+```bibtex
+@inproceedings{Peng2023CheckYF,
+  title     = {Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback},
+  author    = {Baolin Peng and Michel Galley and Pengcheng He and Hao Cheng and Yujia Xie and Yu Hu and Qiuyuan Huang and Lars Lid{\'e}n and Zhou Yu and Weizhu Chen and Jianfeng Gao},
+  year      = {2023}
+}
+```
