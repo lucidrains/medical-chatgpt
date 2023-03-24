@@ -47,8 +47,16 @@ Explorations into training a ChatGPT, but tailored towards primary care medicine
 
 ```bibtex
 @inproceedings{Peng2023CheckYF,
-  title     = {Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback},
-  author    = {Baolin Peng and Michel Galley and Pengcheng He and Hao Cheng and Yujia Xie and Yu Hu and Qiuyuan Huang and Lars Lid{\'e}n and Zhou Yu and Weizhu Chen and Jianfeng Gao},
-  year      = {2023}
+    title     = {Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback},
+    author    = {Baolin Peng and Michel Galley and Pengcheng He and Hao Cheng and Yujia Xie and Yu Hu and Qiuyuan Huang and Lars Lid{\'e}n and Zhou Yu and Weizhu Chen and Jianfeng Gao},
+    year      = {2023}
+}
+```
+
+```bibtex
+@inproceedings{Nori2023CapabilitiesOG,
+    title   = {Capabilities of GPT-4 on Medical Challenge Problems},
+    author  = {Harsha Nori and Nicholas King and Scott Mayer McKinney and Dean Carignan and Eric Horvitz},
+    year    = {2023}
 }
 ```
